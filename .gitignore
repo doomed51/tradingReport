@@ -109,6 +109,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+Scripts/ 
+pyvenv.cfg
+share/
 
 # Spyder project settings
 .spyderproject
@@ -127,3 +130,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# token for IBKR Flex Report 
+token.txt 
+
